@@ -1,7 +1,7 @@
 
   # Proximity-Based Social App
 
-  This is a code bundle for Proximity-Based Social App. The original project is available at https://www.figma.com/design/9H7fbkWAfGKoNRtTDXnHmP/Proximity-Based-Social-App.
+  This is a code bundle for Proximity-Based Social App. The original project is available at 
 
   ## Running the code
 
